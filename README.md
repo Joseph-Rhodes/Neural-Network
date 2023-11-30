@@ -1,3 +1,3 @@
 # Neural-Network
 
-Programming Assingment number 2 for CSDS 391: Introduction to Artificial Intelligence.
+Programming Assingment Number 2 for CSDS 391: Introduction to Artificial Intelligence.
